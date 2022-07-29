@@ -61,6 +61,7 @@ function Cadastrese(){
             <footer>
                 <Footer> Feito por Benja Ferreira | Turma On17| 2022</Footer>
             </footer>
+            <div className='cor-verde'></div>
         </>
     )
 }

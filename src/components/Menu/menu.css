@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Nunito:wght@200&family=Poppins:wght@300;400;500;600&family=Rajdhani:wght@300&display=swap');
 
+ .cor-laranja{
+    height: 5px;
+    background-color:#038C3E;
+}
+.cor-azul{
+    height: 50px;
+    background-color:#9BDAF2;
+} 
 body{
     margin: 0;
     
@@ -13,6 +21,7 @@ body{
     width: 100%;
     height: 100px;
     background-color: #FFFF;
+    border-bottom: 1px black solid;
 }
 .logo{
     height: 300px;
@@ -43,4 +52,5 @@ body{
     text-align: right;
     font-family: 'Rajdhani', sans-serif;
 }
+
 

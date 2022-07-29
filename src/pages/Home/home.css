@@ -1,8 +1,9 @@
+
 .pesquisar{
-    background-color: #fff;
+    background-color:#fff;
     padding: 70px 0px;
     margin: 0 auto;
-    height: 500px;
+    height: 200px;
 }
 .list-container {
     text-align: center;
@@ -30,12 +31,23 @@ button {
     padding: 10px 20px;
     box-shadow: 0 1px 2px 0px #666;
     border-radius: 4px;    
-    background-color: #efefef;
+    background-color:#038C3E;
     font-weight: bold;
     box-sizing: border-box;
     margin: 1em;
     font-family: 'Rajdhani', sans-serif;
 }
+.Caatinga-Filter{
+    background-color: aqua;
+
+}
+
 .add-tsk:hover{
-    background-color:#1472B2;
+    background-color:#F23005;
+}
+
+.cor-verde{
+    height: 5px;
+    background-color: #038C3E;
+
 }

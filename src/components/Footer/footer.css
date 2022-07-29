@@ -1,9 +1,13 @@
 footer {
-    background-color: #1472B2;
+    background-color:#592B02;
     padding: 3px;
     color:white;
     text-align: center;
-    font-size: 10px;
+    font-size: 8px;
     font-family: 'Rajdhani', sans-serif;
-   }
+}
+.cor-marrom{
+    padding: 90px;
+    background-color: #8C3C1F;
+}
   

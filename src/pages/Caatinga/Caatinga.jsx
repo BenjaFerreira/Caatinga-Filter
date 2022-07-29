@@ -39,26 +39,25 @@ function Caatinga(){
   return(
     <>
       <main className="main">
+
           <h1>Caatinga: uma viagem ao coração do sol</h1>
         <section class="conteudo-principal">
 
           <div className="foto-flor">
             <img className="flor" src="../src/assets/closeup-of-a-spiny-pincushion-cactus-in-a-desert-garden.jpg" alt="flor" />
           </div>
-
-          <p>Dia desses, neste chão, nasceu uma flor rara. Flor dessas espécies difíceis de achar. Espécie de esperança. 
-            A flor era daquela cor que só aparece nos nossos sonhos mais bonitos. Aqueles sonhos dos quais não queremos jamais
-            acordar. Mas, digo, não foi sonho, foi real, eu juro: uma flor brotou neste solo. Por mais que tenham passado 
-            a vida me dizendo que dele não sairia nada, a não ser matéria opaca para ser moldada, dando forma a potes que 
-            guardariam a água, quando a água por um milagre viesse.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Iste commodi voluptatibus unde illum reprehenderit, officia doloribus assumenda beatae quisquam 
+          quis amet exercitationem aspernatur ea possimus numquam corporis facilis veniam voluptate.</p>
         </section>
 
         <div className="citacao">
           <blockquote>
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Perferendis aliquid aliquam facere, provident recusandae repellat soluta ea! 
-            Consequuntur inventore dolor suscipit officia dolores quibusdam, veniam odit quo facilis, 
-            maxime aliquid."
+            Dia desses, neste chão, nasceu uma flor rara. Flor dessas espécies difíceis de achar. Espécie de esperança. 
+            A flor era daquela cor que só aparece nos nossos sonhos mais bonitos. Aqueles sonhos dos quais não queremos jamais
+            acordar. Mas, digo, não foi sonho, foi real, eu juro: uma flor brotou neste solo. Por mais que tenham passado 
+            a vida me dizendo que dele não sairia nada, a não ser matéria opaca para ser moldada, dando forma a potes que 
+            guardariam a água, quando a água por um milagre viesse. - Fifa Lima
           </blockquote>
         </div>
 
@@ -72,7 +71,7 @@ function Caatinga(){
               <h2>Aspectos geográficos</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
             </div>
-              <img src="../src/assets/Sem título.png" alt="mapa"/>
+              <img src="../src/assets/mapa-caatinga.png" alt="mapa"/>
           </div>
           <div class="container-Caatinga row-reverse">
             <div class="container-Caatinga__texto">
@@ -142,6 +141,7 @@ function Caatinga(){
       <footer>
         <Footer> Feito por Benja Ferreira | Turma On17| 2022</Footer>
       </footer>
+      <div className='cor-verde'></div>
     </>
   )
 }

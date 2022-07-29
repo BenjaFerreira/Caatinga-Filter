@@ -1,11 +1,16 @@
 import Footer from "../../components/Footer/Footer"
+import './projetos.css'
 
 function Projetos(){
     return(
         <>
-         <footer>
-            <Footer> Feito por Benja Ferreira | Turma On17| 2022</Footer>
-        </footer>
+            <section className="projetos">
+
+            </section>
+            <footer>
+                <Footer> Feito por Benja Ferreira | Turma On17| 2022</Footer>
+            </footer>
+            <div className='cor-verde'></div>
         </>
     )
 }
