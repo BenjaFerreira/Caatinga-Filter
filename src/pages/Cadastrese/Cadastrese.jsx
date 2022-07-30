@@ -59,7 +59,7 @@ function Cadastrese(){
                 </section>
             </main>
             <footer>
-                <Footer> Feito por Benja Ferreira | Turma On17| 2022</Footer>
+                <Footer> Feito por Benja Ferreira - Aluna da Reprograma | Turma On17| 2022</Footer>
             </footer>
             <div className='cor-verde'></div>
         </>

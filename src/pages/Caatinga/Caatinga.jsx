@@ -46,9 +46,7 @@ function Caatinga(){
           <div className="foto-flor">
             <img className="flor" src="../src/assets/closeup-of-a-spiny-pincushion-cactus-in-a-desert-garden.jpg" alt="flor" />
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          Iste commodi voluptatibus unde illum reprehenderit, officia doloribus assumenda beatae quisquam 
-          quis amet exercitationem aspernatur ea possimus numquam corporis facilis veniam voluptate.</p>
+          <p>Caatinga tem origem no tupi-guarani, e significa “mata branca”. Bioma exclusivamente brasileiro, carrega consigo uma biodiversidade imensa e uma cultura de resistência, esse é meu povo, como seu poder de resiliência. </p>
         </section>
 
         <div className="citacao">
@@ -69,14 +67,14 @@ function Caatinga(){
           <div class="container-Caatinga background-Caatinga">
             <div class="container-Caatinga__texto">
               <h2>Aspectos geográficos</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
+              <p>A Caatinga ocupa, aproximadamente, uma área de 734.478 km², correspondendo cerca de 70% da Região Nordeste e 11% do território nacional. Localiza-se em todos os estados do nordeste e do estremo norte de Minas Gerais.</p>
             </div>
               <img className='mapa' src="../src/assets/mapa-caatinga.png" alt="mapa"/>
           </div>
           <div class="container-Caatinga row-reverse">
             <div class="container-Caatinga__texto">
               <h2>Fauna e Flora</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
+              <p>A fauna e a flora possuem características adaptativas aos períodos de estiagem. Sendo assim, suas plantas possuem troncos grossos e raízes profundas, enquanto que seus animais possuem estratégia para sobreviver ao calor, reduzindo a perda de água de seu corpo.</p>
             </div>
               <img className='mosaico' src="../src/assets/filter-4png.png" alt=""/>
           </div>
@@ -86,7 +84,7 @@ function Caatinga(){
           <div class="container-Caatinga background-Caatinga">
             <div class="container-Caatinga__texto">
               <h2>Ameaças à Caatinga</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
+              <p>Por fim, é importante voltarmos os olhos a este bioma tão resiliente e diverso. Considerando seu alto grau de vulnerabilidade ambiental, a área sofre com constante desmatamento e queimadas em razão do desenvolvimento de atividades produtivas, como a produção de lenha e pecuária. Tal fato tem sido observado ao longo da história como precursores no processo de desertificação e precarização da vida de quem habita sua área. </p>
             </div>
             <img className='desmatamento' src="../src/assets/desmatamento.jpg" alt=""/>
           </div>
@@ -139,7 +137,7 @@ function Caatinga(){
 
       </main>
       <footer>
-        <Footer> Feito por Benja Ferreira | Turma On17| 2022</Footer>
+        <Footer> Feito por Benja Ferreira - Aluna da Reprograma | Turma On17| 2022</Footer>
       </footer>
       <div className='cor-verde'></div>
     </>
