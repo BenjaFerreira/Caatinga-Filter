@@ -71,14 +71,14 @@ function Caatinga(){
               <h2>Aspectos geográficos</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
             </div>
-              <img src="../src/assets/mapa-caatinga.png" alt="mapa"/>
+              <img className='mapa' src="../src/assets/mapa-caatinga.png" alt="mapa"/>
           </div>
           <div class="container-Caatinga row-reverse">
             <div class="container-Caatinga__texto">
               <h2>Fauna e Flora</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
             </div>
-              <img src="" alt=""/>
+              <img className='mosaico' src="../src/assets/filter-4png.png" alt=""/>
           </div>
         </section>
 
@@ -88,7 +88,7 @@ function Caatinga(){
               <h2>Ameaças à Caatinga</h2>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque, vero porro natus nihil rerum vel aperiam alias, cupiditate sint nemo enim nostrum. Omnis, aliquam quas quis neque sint eum.</p>
             </div>
-            <img src="" alt=""/>
+            <img className='desmatamento' src="../src/assets/desmatamento.jpg" alt=""/>
           </div>
         </section> 
 

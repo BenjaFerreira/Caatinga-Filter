@@ -8,7 +8,7 @@ function Menu() {
             <div className='cor-azul'></div>
             <div className='menu-box'>
 
-                <img className='logo' src='../src/assets/Logo2.svg'></img>
+                <img className='logo' src='../src/assets/filter.svg'></img>
                 <ul className='menu'>
 
                     <li className='item'>

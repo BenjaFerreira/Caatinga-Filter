@@ -59,6 +59,18 @@ blockquote{
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.mosaico{
+    width: 500px;
+    height: 300px;
+}
+.desmatamento{
+    width: 500px;
+    height: 500px;
+}
+.mapa{
+    width: 500px;
+    height: 500px;
+}
 .background-Caatinga{
     background-color: #FDE1A3;
     margin: 0.5rem 0;
